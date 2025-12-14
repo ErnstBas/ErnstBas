@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Bas Ernst
 - 👀 I’m interested in web development and data analysis 
-- 🌱 Recently i finished my part-time study towards a BSc in Computing and IT at the Open University (UK)
+- 🌱 Recently I finished my part-time study towards a BSc in Computing and IT at the Open University (UK)
 - 💞️ I’m looking to collaborate on socially relevant projects related to democracy, diplomacy and culture
 - 📫 You can reach me at www.linkedin.com/in/basernst/
 
